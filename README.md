@@ -1,6 +1,6 @@
 
 
-![Lanie Colette]()
+![Lanie Colette](https://github.com/lanieuiux/lanieuiux/blob/main/assets/14562b93e63225888743457f0cd9a78f.gif)
 
 ## About Me
 
