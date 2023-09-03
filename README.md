@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lanieuiux/lanieuiux/blob/main/assets/14562b93e63225888743457f0cd9a78f.gif" alt="Lanie Colette" width="2000" height="1000">
+  <img src="https://github.com/lanieuiux/lanieuiux/blob/main/assets/14562b93e63225888743457f0cd9a78f.gif" alt="Lanie Colette" width="max" height="800">
 </div>
 
 ## About Me
