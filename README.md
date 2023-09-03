@@ -1,6 +1,7 @@
+<div align="center">
+  <img src="https://github.com/laniecolette/profile-image.jpg" alt="Lanie Colette" width="400" height="400">
+</div>
 
-
-![Lanie Colette](https://github.com/lanieuiux/lanieuiux/blob/main/assets/14562b93e63225888743457f0cd9a78f.gif)
 
 ## About Me
 
